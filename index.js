@@ -63,6 +63,37 @@ const languageStrings = {
             SKILL_NAME: 'D20',
         },
     },
+    'de-DE': {
+        translation: {
+            ROLLS: [
+                '1, Großer Fehler',
+                '2.',
+                '3.',
+                '4.',
+                '5.',
+                '6.',
+                '7.',
+                '8.',
+                '9.',
+                '10.',
+                '11.',
+                '12.',
+                '13.',
+                '14.',
+                '15.',
+                '16.',
+                '17.',
+                '18.',
+                '19.',
+                '20, Großer Gewinn!'
+            ],
+            SKILL_NAME: 'D20',
+            GET_ROLL_MESSAGE: "Du wirfst die Würfel: Du hast einen Würfel geworfen",
+            HELP_MESSAGE: 'Hier kannst du mir sagen, dass ich eine D20 würfeln soll, sagen wir"Roll Dice", um loszulegen.',
+            HELP_REPROMPT: 'Womit kann ich dir helfen?',
+            STOP_MESSAGE: 'Auf Wiedersehen!',
+        },
+    },
 };
 
 const handlers = {
