@@ -36,33 +36,6 @@ const languageStrings = {
             STOP_MESSAGE: 'Goodbye!',
         },
     },
-    'en-GB': {
-        translation: {
-            ROLLS: [
-                '1, critial fail!',
-                '2.',
-                '3.',
-                '4.',
-                '5.',
-                '6.',
-                '7.',
-                '8.',
-                '9.',
-                '10.',
-                '11.',
-                '12.',
-                '13.',
-                '14.',
-                '15.',
-                '16.',
-                '17.',
-                '18.',
-                '19.',
-                '20, critical success!'
-            ],
-            SKILL_NAME: 'D20',
-        },
-    },
     'de-DE': {
         translation: {
             ROLLS: [
